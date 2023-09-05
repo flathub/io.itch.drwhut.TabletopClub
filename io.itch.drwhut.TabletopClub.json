@@ -29,8 +29,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/drwhut/tabletop-club/releases/download/v0.1.1/TabletopClub_v0.1.1_Linux_64.zip",
-                    "sha512": "a6df1596c6142baf6f822b641f74685960f820581e84facae0c720ca6d5fc41f631e5427e1a11f4399e017b8f2a4f51c5e73584737907d364dc8b8117c9a169b",
+                    "url": "https://github.com/drwhut/tabletop-club/releases/download/v0.1.2/TabletopClub_v0.1.2_Linux_64.zip",
+                    "sha512": "9ea5f908f7d3a9c83b075db29d10cb1068c4ece11b938b4f3a2ad031178ecd36a176721e022d4f24f6045c4df08634eec2678248f7c4e48439e70eda8a5ec514",
                     "strip-components": 0
                 },
                 {
@@ -40,13 +40,13 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://raw.githubusercontent.com/drwhut/tabletop-club/v0.1.1/game/tabletop_club_icon.png",
+                    "url": "https://raw.githubusercontent.com/drwhut/tabletop-club/v0.1.2/game/tabletop_club_icon.png",
                     "sha512": "85176d840093ff9dc4782067c1f30ea5b512406a6ab7b7c76a0ee010fbb7c34771bffdfbe30665192ed685769883a67ef460116f20da0f1b56f270b6e5ab2e4e"
                 },
                 {
                     "type": "file",
-                    "url": "https://raw.githubusercontent.com/drwhut/tabletop-club/37d9c226dae84b62dabb9ccd9a8cfe72ae663969/misc/flatpak/io.itch.drwhut.TabletopClub.metainfo.xml",
-                    "sha512": "8b11176d4a7d5d371c70dad7c04de421f517579671078a5bbbbf56d6b3ac093de070afd4fdf0793623f01e0f466bc0af5faac0acbf479f7eff6df0579f7eb52e"
+                    "url": "https://raw.githubusercontent.com/drwhut/tabletop-club/480db0ffda84d3ae4bf8ad340bcaa62a6031d8ea/misc/flatpak/io.itch.drwhut.TabletopClub.metainfo.xml",
+                    "sha512": "4dd52a13f04d9c2f316a4f7a34afc4a505874bf10d79272368e27591481a4d3ad753fd0c5d582629b845a226d521d032fe340849b9228e576d3abd34d1b1d05e"
                 },
                 {
                     "type": "file",
